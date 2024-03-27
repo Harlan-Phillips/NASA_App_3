@@ -40,9 +40,9 @@ My chosen API for this project is **NASA API**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/EAG1MGi.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **https://imgur.com/EAG1MGi.gif**
+GIF created with **IMGUR**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
