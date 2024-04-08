@@ -1,16 +1,16 @@
 <!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
-# AND101 Project 5 - Choose Your Own API
+# AND101 Project 7 - CYOAPI Part 3: Beautified
 
 Submitted by: **Harlan Phillips**
 
-Time spent: **10** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
-**NASA Picture of the Day** is an android app that **diplays the space picture of the day from NASA'S API**
+**Space Viewer** is an android app that **an app that displays a scrollable list of pictures of the universe from the NASA API"**
 
-If I had to describe this project in three (3) emojis, they would be: **👽👽👽**
+If I had to describe this project in three (3) emojis, they would be: **🚀👾🛸**
 
 ## Application Features
 
@@ -18,31 +18,28 @@ If I had to describe this project in three (3) emojis, they would be: **👽👽
 
 The following REQUIRED features are completed:
 
-- [X] Make an API call to an API of your choice using AsyncHTTPClient
-- [X] Display at least three (3) pieces of data for each API entry retrieved
-- [X] A working Button requests a new API entry and updates the data displayed
+- [X] App contains a RecyclerView that displays a list of scrollable data
+- [X] App displays at least two (2) pieces of data for each RecyclerView item
+- [X] Use a downloadable font with custom color and size
+- [X] Modify the theme of the app in `themes.xml`
+- [X] Define and apply at least one style in **either** `themes.xml` or a new file `styles.xml`
 
 The following STRETCH features are implemented:
 
-- [ ] Add a query to the API request
-  - The query I added is **FILL IN HERE**
-- [ ] Build a UI to allow users to add that query
+- [ ] Update the night theme to use different versions of styles when in dark mode
+- [ ] Use different drawables when in dark mode
 
 The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 
-## API Choice
-
-My chosen API for this project is **NASA API**.
-
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/EAG1MGi.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/SsGNuLT.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **IMGUR**
+GIF created with **Imgur**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
