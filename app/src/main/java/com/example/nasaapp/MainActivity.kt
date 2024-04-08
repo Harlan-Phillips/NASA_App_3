@@ -58,10 +58,11 @@ class MainActivity : AppCompatActivity() {
             adapter = NasaImageAdapter(images)
         }
 
-        spaceButton = findViewById<Button>(R.id.spaceButton)
+        /*spaceButton = findViewById<Button>(R.id.spaceButton)
         spaceButton.setOnClickListener {
             fetchSpaceImages()
-        }
+        }*/
+        fetchSpaceImages()
     }
 
     private fun fetchSpaceImages() {
